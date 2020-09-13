@@ -2,7 +2,7 @@
 	Hi, I'm Landin.<br/><br/>
     <img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="rick&morty" height=200px>
 </h1>
-#### About me:
+#### About me: 
 
 - 📝 Student
 - 🖤 User Linux
